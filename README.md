@@ -26,22 +26,20 @@ Le script repose sur des modules sécurisés :
    ```bash
    git clone [https://github.com/Flowz5/SecurePwd.git](https://github.com/Flowz5/SecurePwd.git)
 
-```
+    ```
 
 2. Accédez au dossier :
-```bash
-cd SecurePwd
+    ```bash
+    cd SecurePwd
 
-```
+    ```
 
 
 3. Lancez le script :
-```bash
-python main.py
+    ```bash
+    python main.py
 
-```
-
-
+    ```
 
 ## 💡 Pourquoi ce projet ?
 
